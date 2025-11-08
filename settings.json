@@ -1,0 +1,48 @@
+{
+  "bot-account": {
+    "username": "8LYORVMvsBcctQsk",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "thecsssmp.falixsrv.me",
+    "port": 25565,
+    "version": "1.12.1"
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "Keeping the server online",
+        "Keeping the server online",
+        "Keeping the server online"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
